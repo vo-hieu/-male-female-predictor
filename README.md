@@ -13,3 +13,9 @@
 <h1> Chạy chương trình: </h1>
 <img src = "https://github.com/vo-hieu/male-female-predictor/blob/master/Images/run1.png" />
 <img src = "https://github.com/vo-hieu/male-female-predictor/blob/master/Images/run2.png" />
+
+<h1> Test độ chính xác của mô hình: </h1>
+Chạy file TestAccuracy lên để test. TestAccuracy sẽ chạy file male-female-predictor.exe với input từ testset.txt và lấy output rồi so khới với testset.txt.
+<img src = "https://github.com/vo-hieu/male-female-predictor/blob/master/Images/test.png" />
+Kết quả: 44.8%
+----> Thuật toán quá tệ.
