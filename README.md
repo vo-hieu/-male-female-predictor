@@ -9,7 +9,7 @@
   
 <h1> Thuật toán: </h1>
 <p> Chương trình sử dụng thuật toán Naive Bayes, mô hình Gaussian. </p>
-<p> Công thức Naive Bayes, xác xuất có điều kiện: </p>
+<p> Công thức Naive Bayes, xác suất có điều kiện: </p>
 <img src = "https://github.com/vo-hieu/male-female-predictor/blob/master/Images/Bayes_rule.png" />
 
 <h1> Chạy chương trình: </h1>
@@ -22,4 +22,5 @@ Chạy file TestAccuracy lên để test. TestAccuracy sẽ chạy file male-fem
 Kết quả: 44.8%
 <i> Test thử với dataset dùng để train (data.txt) ---> ~90% </i>
 ----> Thuật toán cùi bắp.
--------> Nguyên nhân: ....
+-------> Nguyên nhân: TestSet chưa chuẩn.
+<b> Kết luận: Xác định giới tính dựa vào chiều cao và cân nặng không khả thi. Side project này được này với mục đích học tập. </b>
