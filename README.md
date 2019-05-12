@@ -19,7 +19,7 @@
 <h1> Test độ chính xác của mô hình: </h1>
 Chạy file TestAccuracy lên để test. TestAccuracy sẽ chạy file male-female-predictor.exe với input từ testset.txt và lấy output rồi so khớp với testset.txt.
 <img src = "https://github.com/vo-hieu/male-female-predictor/blob/master/Images/test.png" />
-<b> Kết quả: 48.8% </b>
+<b> Kết quả: 48.8% </b> </br>
 <i> Test thử với dataset dùng để train (data.txt) ---> ~90% </i>
 <p> ----> Thuật toán cùi bắp. </p>
 <p> -------> Nguyên nhân: TestSet chưa chuẩn. </p>
