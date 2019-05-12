@@ -7,3 +7,9 @@
   <h5> data.txt: Được convert từ TrainSet.csv để dễ dàng sử dụng. </h5>
   <h5> testset.txt: File convert từ TestSet.csv. </h5>
   
+<h1> Thuật toán: </h1>
+<p> Chương trình sử dụng thuật toán Naive Bayes, mô hình Gaussian. </p>
+
+<h1> Chạy chương trình: </h1>
+<img src = "https://github.com/vo-hieu/male-female-predictor/blob/master/Images/run1.png" />
+<img src = "https://github.com/vo-hieu/male-female-predictor/blob/master/Images/run2.png" />
