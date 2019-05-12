@@ -23,4 +23,4 @@ Chạy file TestAccuracy lên để test. TestAccuracy sẽ chạy file male-fem
 <i> Test thử với dataset dùng để train (data.txt) ---> ~90% </i>
 <p> ----> Thuật toán cùi bắp. </p>
 <p> -------> Nguyên nhân: TestSet chưa chuẩn. </p>
-<b> Kết luận: Xác định giới tính dựa vào chiều cao và cân nặng là không khả thi. Side project này được post với mục đích học tập. </b>
+<b> Kết luận: Xác định giới tính <i>chỉ</i> dựa vào chiều cao và cân nặng là không khả thi. Side project này được post với mục đích học tập. </b>
